@@ -1,5 +1,5 @@
 # Training FrontENd Factoorya
-#Project Name & Pitch
+# Project Name & Pitch
 Example:
 FrontEnd Training 
 
